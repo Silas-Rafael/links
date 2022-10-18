@@ -31,7 +31,7 @@
     /*Links*/
 
     main ul li:hover {
-        background-color: rgba(92, 91, 91, 0.089);
+        background-color: rgba(91, 91, 93, 0.089);
         height: 3.7rem;
         width: 41%;
     }
